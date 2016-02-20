@@ -3,5 +3,7 @@
 int int main(int argc, char const *argv[]) {
   /* code */
   printf("%s\n","this is the frist printf" );
+
+  printf("%s\n","this is the second printf" );
   return 0;
 }
